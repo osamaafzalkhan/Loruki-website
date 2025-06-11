@@ -112,6 +112,7 @@ code, pre {
     width: 400px;
     padding: 40px;
     z-index: 100;
+    justify-self: flex-end;
     animation: slideInFromRight 1s ease-in;
 }
 
